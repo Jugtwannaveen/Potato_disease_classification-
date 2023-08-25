@@ -1,2 +1,2 @@
-# Potato_disease_classification 
- Potato disease Classification Using Deep Learning
+# potato-disease-classification-main
+ Potato Disease Classification 
